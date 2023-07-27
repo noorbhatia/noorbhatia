@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noorbhatia&theme=nord_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noorbhatia&theme=nord_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noorbhatia&theme=nord_dark)
+[![](https://raw.githubusercontent.com/noorbhatia/noorbhatia/main/profile-summary-card-output/calm/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/noorbhatia/noorbhatia/main/profile-summary-card-output/calm/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/noorbhatia/noorbhatia/main/profile-summary-card-output/calm/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/noorbhatia/noorbhatia/main/profile-summary-card-output/calm/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/noorbhatia/noorbhatia/main/profile-summary-card-output/calm/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
